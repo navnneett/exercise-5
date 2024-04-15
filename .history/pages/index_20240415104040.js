@@ -10,8 +10,8 @@ export default function Home() {
     <>
      
       <main className={`${styles.main}`}>
-        {/* <VerticalChart/>
-        <HorizontalChart/> */}
+        <VerticalChart/>
+        <HorizontalChart/>
         <PieChart/>
       </main>
     </>
